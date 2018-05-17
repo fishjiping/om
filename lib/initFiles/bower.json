@@ -1,0 +1,10 @@
+{
+    "name": "npm install tnpm -g --registry=http://registry.npm.alibaba-inc.com",
+    "version": "0.0.1",
+    "private": true,
+    "authors": [
+        "your name"
+    ],
+    "dependencies": {
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "npm install tnpm -g --registry=http://registry.npm.alibaba-inc.com",
+    "author": "your name",
+    "lastTime": "",
+    "options": {
+        "packageName": "",
+        "template": "",
+        "lib": [
+            "animation",
+            "aplus",
+            "audio",
+            "bootstrap",
+            "callapp",
+            "cubicbezier",
+            "env",
+            "flexible",
+            "gesture",
+            "httpurl",
+            "lazyload",
+            "login",
+            "motion",
+            "mtop",
+            "navigation",
+            "notification",
+            "promise",
+            "qrcode",
+            "scrape",
+            "scroll",
+            "share",
+            "slider",
+            "smartbanner",
+            "sticky",
+            "taoplus",
+            "windvane"
+        ],
+        "ctrl": [
+            "carrousel",
+            "indicator",
+            "loading",
+            "pagenav",
+            "pageview",
+            "scrollview",
+            "searchbar",
+            "selectmenu",
+            "sku",
+            "tabheader",
+            "tabpanel",
+            "waterfall",
+            "list"
+        ]
+    }
+}
